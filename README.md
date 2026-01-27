@@ -17,9 +17,9 @@ This project focuses on mobile UI development, state management, and building in
 
 # 🛠️ Technologies Used
 
-React Native
-JavaScript (ES6+)
-Expo
+1. React Native
+2. JavaScript (ES6+)
+3. Expo
 
 👩🏾‍💻 Author
 
